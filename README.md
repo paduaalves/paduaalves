@@ -1,5 +1,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paduaalves)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paduaalves)](https://github.com/paduaalves/github-readme-stats)
+
 <!--
 **paduaalves/paduaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
